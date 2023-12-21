@@ -37,4 +37,4 @@ makes sense to do that at any point.
 Be sure to use good programming practices, such as clear variable names and
 single responsibility functions. We want our react app to be clean, easy to
 read and understand, and of course, easy to to debug, or even add more
-features to later.
+features to later. my 
